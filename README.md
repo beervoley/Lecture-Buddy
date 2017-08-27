@@ -1,5 +1,6 @@
 # Lecture Buddy
 Frictionless realtime audience feedback
+http://hey.buddylecture.me/
 
 ## Inspiration
 Sitting in a 400 person lecture sucks. There is no ability to create consensus as to which parts of the lecture make sense and which don't. And this again and again leads to presenters lacking the audience feedback they need to deliver an engaging presentation. We wanted to provide presenters with an "at a glance" view of how many people couldn't understand the concept, or couldn't hear, or just like the presenter's hair today. A quick way to gain consensus information over time in a large audience, while keeping the audience engaged, Better presentations for everyone!!!
